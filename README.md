@@ -18,12 +18,17 @@ Normal [^1]text
 
 ![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
 
+
 ### Definition list
 
-definitionList1: litemKanske
+<dl>
+  <dt>Definition list</dt>
+  <dd>Item 1</dd>
+  <dt>Definition list 2</dt>
+  <dd>Item 3 </dd>
+  <dd>Item 4</dd>
+</dl>
 
-
-definitionList2: item1
 
 ### Blockquotes
 
