@@ -1,4 +1,6 @@
 # grupp3readme
 
 
-Skrift 1
+<H1>grupp 3<h1/>
+- [ ] Task
+- [x] Completed Task
