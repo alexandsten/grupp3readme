@@ -34,6 +34,12 @@ definitionList2: item1
 >
 > *Blockquotes* look **good**
 
+### Superscript
 
+X^2^ Y^3^
+
+### Subscript
+
+H~2~O
 
 
