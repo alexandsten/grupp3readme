@@ -34,11 +34,11 @@ definitionList2: item1
 >
 > *Blockquotes* look **good**
 
-### Superscript
+### Superscript (Don't work)
 
 X^2^ Y^3^
 
-### Subscript
+### Subscript (Strikethrough)
 
 H~2~O
 
