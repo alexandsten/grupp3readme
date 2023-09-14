@@ -55,3 +55,6 @@ H~2~O
     }
 `
 
+### Inline code
+
+This is some text with a piece of `code` in it.
