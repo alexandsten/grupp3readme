@@ -6,6 +6,7 @@
 
 [Google](http://google.com)
 
+[^1]: En fotnot
 
 definitionList1: litemKanske
 
