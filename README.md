@@ -24,7 +24,7 @@ Normal [^1]text
 <dl>
   <dt>Definition list</dt>
   <dd>Item 1</dd>
-  <dt>Item 2</dt>
+  <dt>Definition list 2</dt>
   <dd>Item 3 </dd>
   <dd>Item 4</dd>
 </dl>
