@@ -34,12 +34,19 @@ definitionList2: item1
 >
 > *Blockquotes* look **good**
 
-### Superscript (Don't work)
+### Superscript :x:
 
 X^2^ Y^3^
 
-### Subscript (Strikethrough)
+### Subscript :x:
 
 H~2~O
 
+### Code block
+
+`
+    const myFunction = () => {
+        console.log('hello world')
+    }
+`
 
