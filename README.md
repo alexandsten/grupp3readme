@@ -63,7 +63,7 @@ This is some text with a piece of `code` in it.
 
 | Sprint | Tickets in Backlog | Tickets in Done |
 | ------ | ---------------- | --------------- |
-| 1      | 9                | 10              |
+| 1      | 1                | 19              |
 
 ### Ordered List
 
@@ -111,8 +111,18 @@ I wish I what a [link](https://www.google.com) was.
 
 ### Strikethrough
 
-### Links within documents
+With a ~~strike~~ a line went through.
 
 ### Horizontal rules
 
+Some text
+
+---
+
+more text
+
 ### Emphasis
+
+This is **bold**
+This is *italic*
+This is ***italic bold***
