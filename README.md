@@ -64,3 +64,15 @@ This is some text with a piece of `code` in it.
 | Sprint | Tickets in Backlog | Tickets in Done |
 | ------ | ---------------- | --------------- |
 | 1      | 9                | 10              |
+
+### Ordered List
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+### Unordered List
+
+- Item
+- Item
+- Item
