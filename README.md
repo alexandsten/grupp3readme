@@ -96,3 +96,21 @@ This is some text with a piece of `code` in it.
 > Now THIS is a blockquote!
 3. Item 3
 4. Item 4
+
+### Headers
+
+> ## H2
+> ### H3
+> #### H4
+> ##### H5
+> ###### H6
+
+### Inline Links
+
+### Strikethrough
+
+### Links within documents
+
+### Horizontal rules
+
+### Emphasis
