@@ -58,3 +58,9 @@ H~2~O
 ### Inline code
 
 This is some text with a piece of `code` in it.
+
+### Table
+
+| Sprint | Tickets in Backlog | Tickets in Done |
+| ------ | ---------------- | --------------- |
+| 1      | 9                | 10              |
