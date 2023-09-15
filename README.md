@@ -89,3 +89,10 @@ This is some text with a piece of `code` in it.
     - Item
 - Item
 
+### Ordered List Continuation
+
+1. Item 1
+2. Item 2
+> Now THIS is a blockquote!
+3. Item 3
+4. Item 4
