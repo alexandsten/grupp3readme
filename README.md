@@ -76,3 +76,16 @@ This is some text with a piece of `code` in it.
 - Item
 - Item
 - Item
+
+### Nested Lists
+
+1. Item 1
+    1. Item 1.1
+    2. Item 1.2
+2. Item 2
+
+- Item
+    - Item
+    - Item
+- Item
+
