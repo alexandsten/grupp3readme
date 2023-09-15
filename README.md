@@ -107,6 +107,8 @@ This is some text with a piece of `code` in it.
 
 ### Inline Links
 
+I wish I what a [link](https://www.google.com) was.
+
 ### Strikethrough
 
 ### Links within documents
