@@ -34,9 +34,10 @@ Normal [^1]text
 <dl>
   <dt>Definition list</dt>
   <dd>Item 1</dd>
-  <dt>Definition list 2</dt>
-  <dd>Item 3 </dd>
-  <dd>Item 4</dd>
+  <dd>Item 2</dd>	
+  <dt>Definition list 3</dt>
+  <dd>Item 4 </dd>
+  <dd>Item 5</dd>
 </dl>
 
 
@@ -136,3 +137,6 @@ more text
 This is **bold**
 This is *italic*
 This is ***italic bold***
+
+---
+>#### The End!
