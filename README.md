@@ -1,12 +1,22 @@
+
+
 # grupp3 README
 
 ### Checkbox
 
+
+
+
+
+
+
 - [ ] Task
 - [x] Completed Task
 
+
 ### Link
 
+[redirect redirect to headingg](#section-heading)
 [Google](http://google.com)
 
 ### Footnote
