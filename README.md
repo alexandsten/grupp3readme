@@ -16,7 +16,7 @@
 
 ### Link
 
-[redirect redirect to headingg](#section-heading)
+[redirect redirect to headingg](#headers)
 [Google](http://google.com)
 
 ### Footnote
